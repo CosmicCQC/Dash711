@@ -1,0 +1,7 @@
+numpy==1.24.2
+pandas==1.5.3
+yfinance==0.2.17
+dash==2.11.1
+dash-core-components==2.0.0
+dash_html_components==2.0.0
+plotly==5.14.1
