@@ -1,4 +1,4 @@
-numpy==1.24.2
+numpy==1.21.6
 pandas==1.5.3
 yfinance==0.2.17
 dash==2.11.1
