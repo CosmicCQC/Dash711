@@ -9,6 +9,7 @@ import plotly.graph_objs as go
 
 # Initialize the app
 app = dash.Dash(__name__)
+server = app.server
 
 def download_data(tickers):
     # Define Tickers object
